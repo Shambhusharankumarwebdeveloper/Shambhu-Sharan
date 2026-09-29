@@ -1,7 +1,7 @@
 import { Search, LayoutDashboard, Mail, PenTool, AtSign, type LucideIcon } from 'lucide-react';
 
 export const site = {
-  name: 'Shambhu Sharan Kumar',
+  name: 'Shambhu Sharan',
   title: 'Frontend Developer | AI Prompt Engineer | FMCG Data Researcher | Python Developer',
   intro: 'Frontend Developer with experience in website design, UI development, and responsive web development. Skilled in UI Development using HTML5, CSS3, JavaScript, React.js (Basic), Bootstrap, and SQL. Strong understanding of responsive layouts, cross-browser compatibility, website performance optimization, and clean, maintainable code. Experienced in collaborating with cross-functional teams, troubleshooting technical challenges, implementing website improvements, and delivering high-quality digital experiences across devices.',
   description: 'Shambhu Sharan Kumar is a Frontend Developer with hands-on experience in responsive UI development, web applications, AI-assisted workflows, and FMCG data research.',
