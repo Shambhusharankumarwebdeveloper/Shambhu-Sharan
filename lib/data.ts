@@ -3,7 +3,7 @@ import { Search, LayoutDashboard, Mail, PenTool, AtSign, type LucideIcon } from 
 export const site = {
   name: 'Shambhu Sharan',
   title: 'Frontend Developer | AI Prompt Engineer | FMCG Data Researcher | Python Developer',
-  intro: 'Frontend Developer with experience in website design, UI development, and responsive web development. Skilled in UI Development using HTML5, CSS3, JavaScript, React.js (Basic), Bootstrap, and SQL. Strong understanding of responsive layouts, cross-browser compatibility, website performance optimization, and clean, maintainable code. Experienced in collaborating with cross-functional teams, troubleshooting technical challenges, implementing website improvements, and delivering high-quality digital experiences across devices.',
+  intro: 'Frontend UI developer with 6+ years of professional frontend developer experience. Builds fast, user-focused websites, admin panels and email campaigns for multi-brand retail across nine European markets. Skilled at turning Figma prototypes into reusable interfaces, integrating APIs and tuning performance across browsers and devices. Seeking a React.js and Next.js role.',
   description: 'Shambhu Sharan Kumar is a Frontend Developer with hands-on experience in responsive UI development, web applications, AI-assisted workflows, and FMCG data research.',
 };
 
